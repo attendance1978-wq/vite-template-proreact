@@ -17,7 +17,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
-    "vite": "^4.4.0"
+    "vite": "^7.3.1"
   },
   "keywords": [
     "proreact",
