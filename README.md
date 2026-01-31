@@ -1,6 +1,19 @@
-# Vite Template: ProReact
+# ⚡ ProReact – Vite Template
 
-A minimal **ProReact framework** template built with **Vite**, ready for building websites with:
+![ProReact Logo](https://github.com/attendance1978-wq/vite-template-proreact/blob/main/public/image/Proreact.png)
+
+![Node.js](https://img.shields.io/badge/node-%3E%3D18-green)
+![Vite](https://img.shields.io/badge/vite-4.x-purple)
+![License](https://img.shields.io/github/license/attendance1978-wq/vite-template-proreact)
+![Build](https://img.shields.io/github/actions/workflow/status/attendance1978-wq/vite-template-proreact/node.js.yml)
+![Version](https://img.shields.io/github/v/release/attendance1978-wq/vite-template-proreact)
+![GitHub stars](https://img.shields.io/github/stars/attendance1978-wq/vite-template-proreact?style=social)
+
+**ProReact** is a lightweight experimental JavaScript framework inspired by React, built from scratch and bundled with **Vite** for fast development and modern tooling.
+
+This repository provides a **Vite template** to build websites and apps using **ProReact + JSX** — without React or Vanilla presets.
+
+---
 
 - JSX syntax
 - Hooks: `useState` & `useEffect`
@@ -104,3 +117,4 @@ export function App() {
   );
 }
 ```
+
