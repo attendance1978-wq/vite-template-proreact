@@ -24,7 +24,7 @@ This template makes it easy to scaffold a new project using **ProReact**, skippi
 ---
 
 ## 🛠 Project Structure
-
+```
 vite-template-proreact/
 ├─ public/
 │ └─ App.css # Custom CSS
@@ -36,7 +36,7 @@ vite-template-proreact/
 ├─ package.json
 ├─ vite.config.js
 └─ README.md
-
+```
 ---
 
 ## ⚡ Usage
@@ -60,8 +60,11 @@ Open your browser at http://localhost:5173 to see your ProReact website in actio
 npm run build
 npm run preview
 
-### 📝 Example Usage in App.jsx
-```
+---
+
+## 📝 Example Usage in App.jsx
+
+```jsx
 /** @jsx createElement */
 import { createElement, useState, useEffect, Head } from "./proreact.js";
 
@@ -97,9 +100,3 @@ export function App() {
   );
 }
 ```
-### This **README.md**:
-
-- Explains what ProReact is  
-- Shows folder structure  
-- Includes usage instructions (dev, build)  
-- Provides an example of `App.jsx`
