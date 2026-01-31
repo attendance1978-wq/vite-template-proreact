@@ -1,13 +1,31 @@
 {
-  "name": "proreact",
-  "version": "0.0.0",
+  "name": "@attendance1978-wq/vite-template-proreact",
+  "version": "0.0.1",
   "type": "module",
+  "description": "ProReact Vite Template - A minimal React-like framework built on Vite",
+  "main": "src/proreact.js",
+  "files": [
+    "src"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "echo \"No tests yet\""
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
     "vite": "^4.4.0"
-  }
+  },
+  "keywords": [
+    "proreact",
+    "vite",
+    "jsx",
+    "framework",
+    "hooks"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
 }
