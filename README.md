@@ -49,17 +49,21 @@ npm create vite@latest my-proreact-app -- --template yourusername/vite-template-
 ```
 
 ### 2. Install dependencies
+```
 cd project name
 npm install
-
+```
 ### 3. Run the development server
+```
 npm run dev
+```
 Open your browser at http://localhost:5173 to see your ProReact website in action.
 
 ### 4. Build for production
+```
 npm run build
 npm run preview
-
+```
 ---
 
 ## 📝 Example Usage in App.jsx
